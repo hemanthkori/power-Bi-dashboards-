@@ -1,1 +1,5 @@
 ![Sales Dashboard](docs/screenshots/sales-dashboard.png)
+![License](https://img.shields.io/github/license/hemanthkori/portfolio-bi-dashboards)
+![Last Commit](https://img.shields.io/github/last-commit/hemanthkori/portfolio-bi-dashboards)
+![Issues](https://img.shields.io/github/issues/hemanthkori/portfolio-bi-dashboards)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
